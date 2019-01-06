@@ -1,0 +1,688 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	text-decoration: none;	
+	
+}
+.zhuti
+{
+	width: 100%;
+	height: 5656px;
+	/*border:1px black solid;*/
+}
+.dingbu
+{
+	width: 1900px;
+	height: 38px;
+	background-color: #333333;
+}
+.quanguo
+{
+	width: 60px;
+	height: 38px;
+	text-align: center;
+	line-height: 38px;
+	float: left;
+	margin-left: 363px;
+	font-size: 12px;
+}
+.dingbu a
+{
+	color: #d9d9d9;
+}
+.denglu
+{
+	width: 65px;
+	height: 38px;
+	float: left;
+	text-align: center;
+	line-height: 38px;
+	margin-left: 1066px;
+	font-size: 12px;
+}
+.dingbu a:hover
+{
+	color: white;
+}
+.daohang
+{
+	width: 1900px;
+	height: 85px;
+	/*border: 1px green solid;*/
+	background-color: white;
+}
+.logo
+{
+	margin-left: 367px;
+	padding-top: 21px;
+	float: left;
+}
+.daohang ul
+{
+	float: left;
+}
+.daohang ul li 
+{
+	width: 110px;
+	height: 84px;
+	float: left;
+	text-align: center;
+	line-height: 84px;
+	/*border: 1px pink solid;*/
+	margin-left: 5px;
+	font-family: 'Microsoft YaHei';	
+}
+.daohang ul li a
+{
+	color: black;
+}
+.daohang ul li:hover a
+{
+	color: red;
+}
+.daohanglan
+{
+	margin-left:535px;
+}
+/*.dingwei1
+{
+	position: fixed;
+	border-bottom: 1px solid #dddddd;
+}*/
+.datu1
+{
+	width: 1900px;
+	height: 460px;
+	/*border:1px green solid;*/
+	background: url("../images/tupian1.jpg") no-repeat;
+	cursor:pointer;
+	position:relative; 
+}
+/*.yuandian
+{
+	width: 59px;
+	height: 20px;
+	background: url("../images/yuandian.png") no-repeat;
+	border:1px blue solid;
+	position: absolute;
+	top: 417px;
+	left: 916px;
+}
+.datu2
+{
+	display: none;
+}
+.yuandian:hover .datu2 
+{
+	display: block;
+}*/
+.neirong1
+{
+	width: 1200px;
+	height: 640px;
+	/*border: 1px solid pink;*/
+	margin: 0px auto;
+}
+.wenzi1
+{
+	width: 1200px;
+	height: 42px;
+	/*border: 1px red solid;*/
+	font-family:"微软雅黑";
+	font-size: 17px;
+	padding-top: 47px;
+	margin: 0px auto;
+
+}
+.wenzi1 b
+{
+	font-size: 32px;
+}
+.datu2
+{
+	width: 1200px;
+	height: 520px;
+	/*border: 1px solid green;*/
+	padding-top: 22px;
+}
+.datu2:hover
+{
+	cursor: pointer;
+}
+.neirong2
+{
+	width: 1200px;
+	height: 612px;
+	/*border: 1px blue solid;*/
+	margin: 0px auto;
+}
+.gengduo
+{
+	width:40px;
+	height: 20px;
+	/*border:1px solid purple; */
+	float: right;
+	padding-top: 20px;
+	font-family:"楷体";
+	font-size: 14px;
+}
+.gengduo a
+{
+	color: black;
+}
+.gengduo:hover a
+{
+	color:#bf1a21;
+}
+.tu1
+{
+	width: 592px;
+	height: 450px;
+	/*border: 1px solid pink;*/
+	background: url("../images/tupian3.jpg");
+	float: left;
+	position:relative;
+}
+.tu2
+{
+	width: 592px;
+	height: 247px;
+	/*border:1px solid blue;*/
+	float: left;
+	background: url("../images/tupian4.jpg");
+	margin-left: 16px;
+	position:relative;
+}
+.tu3
+{
+	width: 288px;
+	height: 187px;
+	/*border:1px solid red;*/
+	float: left;
+	background: url("../images/tupian5.jpg");
+	margin-left: 16px;
+	margin-top: 16px;
+	position:relative;
+}
+.tu4
+{
+	width: 288px;
+	height: 187px;
+	/*border:1px solid yellow;*/
+	float: left;
+	background: url("../images/tupian6.jpg");
+	margin-left: 16px;
+	margin-top: 16px;
+	position:relative;
+}
+.wenzi2
+{
+	width: 223px;
+	height: 45px;
+	/*border: 1px red solid;*/
+	position: absolute;
+	font-size: 29px;
+	font-weight: bold;
+	font-family: "微软雅黑";
+	left:61px;
+	top: 52px;
+}
+.wenzi2 a
+{
+	color: black;
+}
+.wenzi3
+{
+	font-family: "微软雅黑";
+	color:#7b8791;
+	position: absolute;
+	font-size: 14px;
+	left:63px;
+	top: 103px;
+}
+.wenzi4
+{
+	width: 280px;
+	height: 45px;
+	/*border: 1px red solid;*/
+	position: absolute;
+	font-size: 29px;
+	font-weight: bold;
+	font-family: "微软雅黑";
+	left:61px;
+	top: 52px;
+}
+.wenzi4 a
+{
+	color: black;
+}
+.wenzi5
+{
+	font-family: "微软雅黑";
+	color:#7b8791;
+	position: absolute;
+	font-size: 15px;
+	left:78px;
+	top: 15px;
+}
+.tu1:hover a
+{
+	color:#bf1a21;
+}
+.tu2:hover a
+{
+	color:#bf1a21;
+}
+.hezi1
+{
+	margin-top: 30px;
+}
+.neirong3
+{
+	width: 1903px;
+	height: 576px;
+	background-color: #f7f7f7;
+	/*border:1px blue solid;*/
+	margin: 0px auto;
+}
+.tu5
+{
+	width: 1200px;
+	height: 434px;
+	background: url("../images/tupian7.png");
+	margin: 0px auto;
+	margin-top: 30px;
+	cursor: pointer;
+}
+.neirong4
+{
+	width: 1200px;
+	height: 708px;
+	/*border:1px blue solid;*/
+	margin: 0px auto;
+}
+.hezi2
+{
+	width: 1200px;
+	height: 578px;
+	/*border: 1px purple solid;*/
+	margin-top: 30px;
+}
+.tu6
+{
+	width: 220px;
+	height: 556px;
+	background: url("../images/tupian8.png") no-repeat;
+	float: left;
+}
+.xiaohezi1
+{
+	width: 980px;
+	height: 270px;
+	/*border: 1px green solid;*/
+	margin-left: 220px;
+}
+.tu7
+{
+	width: 474PX;
+	height: 270px;
+	background: url("../images/tupian9.png") no-repeat;
+	float: left;
+	margin-left: 16px;
+}
+.tu8
+{
+	width: 229px;
+	height: 270px;
+	background:url("../images/tupian10.png") no-repeat; 
+	float: left;
+	margin-left: 16px;
+}
+.tu9
+{
+	width: 229px;
+	height: 270px;
+	background:url("../images/tupian11.png") no-repeat; 
+	float: left;
+	margin-left: 16px;
+}
+.tu10
+{
+	width: 229px;
+	height: 270px;
+	background:url("../images/tupian12.png") no-repeat; 
+	float: left;
+	margin-left: 16px;
+	margin-top: 16px;
+}
+.tu11
+{
+	width: 229px;
+	height: 270px;
+	background:url("../images/tupian13.png") no-repeat; 
+	float: left;
+	margin-left: 16px;
+	margin-top: 16px;
+}
+.tu12
+{
+	width: 229px;
+	height: 270px;
+	background:url("../images/tupian14.png") no-repeat; 
+	float: left;
+	margin-left: 16px;
+	margin-top: 16px;
+}
+.tu13
+{
+	width: 229px;
+	height: 270px;
+	background:url("../images/tupian15.png") no-repeat; 
+	float: left;
+	margin-left: 16px;
+	margin-top: 16px;
+}
+.wenzi6
+{
+	width: 229px;
+	height: 40px;
+	background-color: #eeeeee;
+	margin-top: 227px;
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center;
+	line-height: 40px;
+	font-family: "微软雅黑";
+}
+.wenzi7
+{
+	width: 474px;
+	height: 40px;
+	background-color:rgba(0,0,0,0.5);
+	margin-top: 230px;
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center;
+	line-height: 40px;
+	font-family: "微软雅黑";
+}
+.neirong4 a
+{
+	color: black;
+}
+.neirong4 a:hover 
+{
+	color:#bf1a21;
+}
+.neirong5
+{
+	width: 1200px;
+	height: 670px;
+	/*border: 1px solid green;*/
+	margin: 0px auto;
+}
+.shejishi
+{
+	width: 921px;
+	height: 520px;
+	/*border: 1px solid pink;*/
+	margin: 0px auto;
+	margin-top: 30px;
+}
+.neirong6
+{
+	width: 1900px;
+	height: 665px;
+	/*border: 1px solid red;*/
+	background-color:  #f7f7f7;
+}
+.hezi3
+{
+	width: 1200px;
+	height: 520px;
+	border: 1px #dedede solid;
+	margin: 0px auto;
+	margin-top: 30px;
+}
+.left
+{
+	width: 387px;
+	height: 520px;
+	/*border: 1px solid blue;*/
+	float: left;
+}
+.center
+{
+	width: 387px;
+	height: 520px;
+	/*border: 1px solid blue;*/
+	float: left;
+	margin-left: 17px;
+}
+.right
+{
+	width: 387px;
+	height: 520px;
+	/*border: 1px solid blue;*/
+	float: left;
+	margin-left: 17px;
+}
+.wenzi8
+{
+	width: 387px;
+	height: 49px;
+	background-color: #f3f3f3;
+	float: left;
+	font-size: 21px;
+	line-height: 49px;
+}
+.gengduo2
+{
+	float: right;
+	margin-right: 5px;
+}
+.tu14
+{
+	width: 318px;
+	height: 214px;
+	background: url("../images/tupian25.png");
+	margin-left: 34px;
+	margin-top: 75px;
+}
+.wenzi9
+{
+	width: 320px;
+	height: 63px;
+	/*border: 1px blue solid;*/
+	margin-left: 34px;
+	font-size: 16px;
+	text-align: center;
+	line-height: 63px;
+	font-family: "微软雅黑";
+}
+.wenzi9 a
+{
+	color:black; 
+}
+.wenzi9:hover a
+{
+	color:#bf1a21; 
+}
+.xiaohezi2
+{
+	width: 388px;
+	height: 444px;
+	background-color: white;
+}
+.gengduo2
+{
+	width:35px;
+	height: 20px;
+	/*border:1px solid purple; */
+	float: right;
+	padding-top: 8px;
+	font-family:"楷体";
+	font-size: 14px;
+}
+.gengduo2 a
+{
+	color: black;
+}
+.gengduo2:hover a
+{
+	color:#bf1a21;
+}
+.tu15
+{
+	width: 318px;
+	height: 214px;
+	background: url("../images/tupian26.png");
+	margin-left: 34px;
+	margin-top: 75px;
+}
+.tu16
+{
+	width: 318px;
+	height: 214px;
+	background: url("../images/tupian27.png");
+	margin-left: 34px;
+	margin-top: 75px;
+}
+.wenzi10
+{
+	font-family: 'Microsoft YaHei';
+	font-size: 14px;
+	line-height: 1.8;
+	margin-left: 34px;
+	margin-top: 25px;
+}
+.wenzi10 a
+{
+	color: black;
+}
+.wenzi10 a:hover
+{
+	color:#bf1a21;
+}
+.neirong7
+{
+	width: 1900px;
+	height: 880px;
+	/*border: 1px solid green;*/
+	background-color:  #f2f2f2;
+}
+.hezi4
+{
+	width: 1200px;
+	height: 560px;
+	/*border: 1px solid pink;*/
+	margin: 0px auto;
+}
+.xiaohezi3
+{
+	width: 795px;
+	height: 550px;
+	background-color: white;
+	background: url("../images/tupian22.png");
+	float: left;
+}
+.xiaohezi4
+{
+	width: 388px;
+	height: 550px;
+	background-color: white;
+	float: left;
+	margin-left: 17px;
+}
+.xiaohezi5
+{
+	width: 388px;
+	height: 123px;
+	background: url("../images/tupian30.png");
+}
+.xiaohezi6
+{
+	width: 388px;
+	height: 142px;
+	background: url("../images/tupian31.png");
+}
+.xiaohezi6:hover
+{
+	cursor: pointer;
+	background: url("../images/tupian32.png");
+}
+.wenzi11
+{
+	width: 1200px;
+	height: 200px;
+	font-family: 'Microsoft YaHei';
+	font-size: 14px;
+    line-height: 1.8;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+.neirong8
+{
+	width: 1900px;
+	height: 322px;
+	background-color: #333333;
+}
+.shang
+{
+	width: 1900px;
+	height: 278px;
+	border: 1px black solid;
+}
+.xia
+{
+	width: 1900px;
+	height: 22px;
+	/*border: 1px blue solid;*/
+	text-align:center;
+	margin-top: 20px;
+	color: #7e7f81;
+}
+.xia a
+{
+	color: #7e7f81;
+}
+.xia a:hover
+{
+	color:white;
+}
+.hezi5
+{
+	width: 640px;
+	height: 200px;
+	/*border:1px yellow solid ;*/
+	margin-left: 350px;
+	margin-top: 30px;
+}
+.xiaohezi7
+{
+	width: 175px;
+	height: 193px;
+	/*border: 1px solid purple;*/
+	float: left;
+	line-height: 30px;
+	color:white;
+}
+.xiaohezi7 a
+{
+	color: #7e7f81;
+}
+.xiaohezi7 a:hover
+{
+	color: white;
+}
+.xiaohezi8
+{
+	width: 687px;
+	height: 228px;
+	background: url("../images/tupian33.jpg");
+	margin-left: 606px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
